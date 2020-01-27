@@ -1,0 +1,20 @@
+To-do List:
+•interface em que consiga selecionar q classe(s) quero q o meu sistema detete (se tiver tempo)
+•threshold de confiança a partir do qual o sistema tem confiança de q se trata de uma classe
+•threshold de decibéis
+•registo desde q começou a análise até ser interrompida sobre q classes detetou
+
+•colocar axis nas figuras
+•como é que eu sei se usei 10-fold cross validation?? o que significa o 10-fold?
+
+Bagging – dividir o dataset original em vários datasets
+Bootstrap aggregating – pegas no dataset original e tiras outro com o mesmo tamanho com replacements
+Feature randomization – para prevenir overfitting
+Decision trees – criar ramos na arvore de acordo com critério de divisão (information gain)
+
+Novas dúvidas:
+•Como organizar pasta tese, fazer váriass pastas, etc...
+•Como organizar as matrizes de confiança
+•Github ou nbviewer com os notebooks
+•Se o nº de decision trees for par, e resultar num empate?
+•Disseste q partilhaste um github na apresentação? Como?
